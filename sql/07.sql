@@ -6,7 +6,12 @@
  * Not every film in the film table is available in the store's inventory,
  * and you should only return films in the inventory.
  *
- * HINT:
- * This can be solved either with a LEFT JOIN or with the NOT IN operator.
- * You may choose whichever solution makes the most sense to you.
+ * NOTE:
+ * This can be solved by either using a LEFT JOIN or by using the NOT IN clause and a subquery.
+ * For this problem, you should use the NOT IN clause;
+ * in problem 07b you will use the LEFT JOIN clause.
+ *
+ * NOTE:
+ * This is the last problem that will require you to use a particular method to solve the query.
+ * In future problems, you may choose whether to use the LEFT JOIN or NOT IN clause if they are more applicable.
  */
