@@ -1,5 +1,7 @@
 # pagila-hw2
 
+This is the second SQL homework in CMC's CSCI143: Big Data class.
+
 ## Tasks
 
 1. Recall that [git is not github](https://pedrorijo.com/blog/git-init/#what-is-not-git).
