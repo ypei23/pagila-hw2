@@ -6,6 +6,8 @@
  * then they represent the same person.
  * Then select all actors who are not also customers.
  *
- * HINT:
- * This can be solved using either a LEFT JOIN or the NOT IN operator.
+ * NOTE:
+ * This can be solved by either using a LEFT JOIN or by using the NOT IN clause and a subquery.
+ * For this problem, you should use the NOT IN clause;
+ * in problem 05b you will use the LEFT JOIN clause.
  */

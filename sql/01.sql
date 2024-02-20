@@ -4,5 +4,6 @@
  * Use the film table and order by title.
  *
  * HINT:
- * The postgresqltutorial.com website has a solution for this problem.
+ * The following tutorial has a solution for this problem:
+ * https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-correlated-subquery/
  */
