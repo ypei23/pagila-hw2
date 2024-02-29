@@ -4,6 +4,8 @@ This is the second SQL homework in CMC's CSCI143: Big Data class.
 
 ## Tasks
 
+[![](https://github.com/ypei23/pagila-hw2/workflows/tests/badge.svg)](https://github.com/ypei23/pagila-hw2/actions?query=workflow%3Atests)
+
 1. Recall that [git is not github](https://pedrorijo.com/blog/git-init/#what-is-not-git).
     Git is a protocol, and there are many services that provide access to that protocol.
     In particular, this README is stored in a git repo hosted on gitlab instead of github.
